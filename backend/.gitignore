@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+yolo11n-cls.pt
